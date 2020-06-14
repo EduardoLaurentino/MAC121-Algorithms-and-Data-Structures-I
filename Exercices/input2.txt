@@ -1,0 +1,4 @@
+6205c6205
+< Captain," cried *Queequeg* disjointedly, "all **twisk*e*-tee be-*twisk*, like
+---
+> Captain," cried *Queequeg* disjointedly, "all *twiske*-tee be-*twisk*, like

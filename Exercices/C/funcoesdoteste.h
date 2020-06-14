@@ -1,0 +1,1 @@
+double fatorial (int n);
